@@ -1,0 +1,22 @@
+{
+  "name": "cypress-test-automation",
+  "version": "1.0.0",
+  "description": "testingautomation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitpatelqa6/cypress-test-automation.git"
+  },
+  "author": "ankit patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitpatelqa6/cypress-test-automation/issues"
+  },
+  "homepage": "https://github.com/ankitpatelqa6/cypress-test-automation#readme",
+  "devDependencies": {
+    "cypress": "^3.1.5"
+  }
+}
