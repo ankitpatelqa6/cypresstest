@@ -12,8 +12,8 @@ describe('Click Menus', () => {
         cy.get('.nav > :nth-child(3) > a').click();
      });
    
-    //  it('Click on Blog', () => {
-    //     cy.get('.nav > :nth-child(4) > a').click();
-    //  });
+     it('Click on Blog', () => {
+        cy.get('.nav > :nth-child(4) > a').click();
+     });
    });
    
