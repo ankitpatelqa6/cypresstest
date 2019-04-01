@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ankitpatelqa6/cypress-test-automation#readme",
   "devDependencies": {
-    "cypress": "^3.1.5"
+    "cypress": "^3.1.5",
+    "cypress-testing-library": "^2.3.6"
   }
 }
